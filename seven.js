@@ -1,0 +1,1 @@
+console.log(process.argv[2] % 7 == 0 && process.argv[3] % 7 == 0);
